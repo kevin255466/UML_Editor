@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AssociationLine" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AssociationLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Class" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAAAAAAAAAAAAAIAIAAAAAAEAABAAAAEAAAAAAA=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositionLine" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompositionLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateMode" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>CreateMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenerationLine" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GenerationLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Group" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Group.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAIAAAAAAAAAAACEAIAEAAAAAABgAAAEAAAAAEA=</HashCode>
+      <FileName>Item.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemPort" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAACACAAAAAAAAAAAAAAAAAAAAwQQAEAAAIAAA=</HashCode>
+      <FileName>ItemPort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAEQAAAAAAAAAABAAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineMode" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAEEQAAAAEAAAAAAEAABAACAACAAAAAA=</HashCode>
+      <FileName>LineMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mode" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAIAAAEAAAAAAEAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Mode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEAABQBAGAkAAAAABAQAAQIAAAAAAAAAACgAA=</HashCode>
+      <FileName>Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectMode" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAQAEAAEAAAEAAAAAAAQAAAAAAACAAAgAA=</HashCode>
+      <FileName>SelectMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UseCase" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAIAAAAAAAAQAAAAAAAAAAAAAAAABAAAAEAAACAAA=</HashCode>
+      <FileName>UseCase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UML_KEditor" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCAAAAABAEAAUgAABAIAAYAAAAAACAAAQAAABAAA=</HashCode>
+      <FileName>uml_keditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_UML_KEditorClass" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAkAQAAAAAIAAIAAAAwAIgAAoAgAQEABABA=</HashCode>
+      <FileName>GeneratedFiles\ui_uml_keditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::UML_KEditorClass" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_uml_keditor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
