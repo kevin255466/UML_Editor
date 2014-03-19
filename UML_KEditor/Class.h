@@ -10,7 +10,7 @@ class Class : public Item {
 public:
 	Class();
 	virtual QString getName();
-	virtual void setName( QString name );
+	virtual voidtestt setName( QString name );
     virtual QRectF boundingRect() const;
     virtual void paint( QPainter * painter, 
 						const QStyleOptionGraphicsItem * option, QWidget * widget = 0 );
