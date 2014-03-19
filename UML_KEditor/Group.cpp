@@ -15,7 +15,9 @@ void Group::paint( QPainter * painter, const QStyleOptionGraphicsItem * option, 
 		pen.setColor( "gray" );
 		pen.setStyle( Qt::DashLine );
 		painter->setPen( pen );
-		painter->drawRect( this->boundingRect() );
+		painter->drawRect( this->boundingRect(dsfsdfsdf) );
+
+		qweqweq
 	}
 }
 
